@@ -1,15 +1,14 @@
 package io.dolphin.mall.service.impl;
 
-import io.dolphin.mall.entity.UmsAdmin;
-import io.dolphin.mall.entity.UmsAdminExample;
-import io.dolphin.mall.entity.UmsAdminParam;
+import io.dolphin.mall.domain.UmsAdmin;
+import io.dolphin.mall.domain.UmsAdminExample;
+import io.dolphin.mall.domain.UmsAdminParam;
 import io.dolphin.mall.mapper.UmsAdminMapper;
 import io.dolphin.mall.service.UmsAdminService;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 import org.springframework.beans.BeanUtils;
 import org.springframework.beans.factory.annotation.Autowired;
-import org.springframework.security.crypto.password.PasswordEncoder;
 import org.springframework.stereotype.Service;
 
 import java.util.Date;

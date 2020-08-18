@@ -1,7 +1,7 @@
 package io.dolphin.mall.service;
 
-import io.dolphin.mall.entity.UmsAdmin;
-import io.dolphin.mall.entity.UmsAdminParam;
+import io.dolphin.mall.domain.UmsAdmin;
+import io.dolphin.mall.domain.UmsAdminParam;
 
 /**
  * 后台管理员Service

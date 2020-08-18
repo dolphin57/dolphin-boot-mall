@@ -1,4 +1,4 @@
-package io.dolphin.mall.entity;
+package io.dolphin.mall.domain;
 
 import java.util.ArrayList;
 import java.util.Date;

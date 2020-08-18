@@ -1,4 +1,4 @@
-package io.dolphin.mall.entity;
+package io.dolphin.mall.domain;
 
 import io.swagger.annotations.ApiModelProperty;
 import lombok.Getter;

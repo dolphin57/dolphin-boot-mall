@@ -1,8 +1,8 @@
-package io.dolphin.mall.controller;
+package io.dolphin.mall.api.controller;
 
 import io.dolphin.mall.common.api.CommonResult;
-import io.dolphin.mall.entity.UmsAdmin;
-import io.dolphin.mall.entity.UmsAdminParam;
+import io.dolphin.mall.domain.UmsAdmin;
+import io.dolphin.mall.domain.UmsAdminParam;
 import io.dolphin.mall.service.UmsAdminService;
 import io.swagger.annotations.Api;
 import io.swagger.annotations.ApiOperation;

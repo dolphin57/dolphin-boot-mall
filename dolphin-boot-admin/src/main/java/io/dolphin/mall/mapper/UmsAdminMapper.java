@@ -1,7 +1,7 @@
 package io.dolphin.mall.mapper;
 
-import io.dolphin.mall.entity.UmsAdmin;
-import io.dolphin.mall.entity.UmsAdminExample;
+import io.dolphin.mall.domain.UmsAdmin;
+import io.dolphin.mall.domain.UmsAdminExample;
 import org.apache.ibatis.annotations.Param;
 
 import java.util.List;
