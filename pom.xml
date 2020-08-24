@@ -15,6 +15,7 @@
         <module>dolphin-boot-security</module>
         <module>dolphin-boot-admin</module>
         <module>dolphin-boot-common</module>
+        <module>dolphin-boot-portal</module>
     </modules>
 
     <properties>
